@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English literature'
+- GITenberg
 tableOfContents: Limberham, or the Kind Keeper, a Comedy -- OEdipus, a Tragedy --
   Troilus and Cressida, or Truth found too late, a Tragedy -- The Spanish Friar, or
   the Double Discovery.
